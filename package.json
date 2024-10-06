@@ -1,0 +1,16 @@
+{
+  "name": "galactic-explorer",
+  "version": "1.0.0",
+  "description": "A web-based interactive program that takes users on a journey through the history of deep space exploration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  }
+}
